@@ -18,14 +18,13 @@ style: styles-fsu
 name: Alex Tedeschi
 tagline: Computer Science Graduate from Florida State University
 pic: avatar.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: "Driven Software Engineer and Computer Scientist with
-  extensive leadership, graphic design, and Software Development expertise."
+summary: "An Enthusiastic Software Developer, IT Analyst, and System Administrator Apprentice with a driven work ethic."
 
 #sidebar links
 email: alextedeschi27@gmail.com
 phone: (401) 484-2910
 #blog: blog.cgsphoto.com #do not add http://
-linkedin: Alexander-Tedeschi
+linkedin: AlexanderJTedeschi
 github: AlexTedeschi
 twitter: "alext227"
 #photos: photos.cgsphoto.com

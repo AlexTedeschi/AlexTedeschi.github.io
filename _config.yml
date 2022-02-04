@@ -1,6 +1,6 @@
 # Site Settings
-title: Carlos Saucedo
-url: "http://leosaucedo.github.io"
+title: Alex Tedeschi
+url: "http://AlexTedeschi.github.io"
 baseurl: "/" #change it according to your repository name
 resume: True # Whether to display printable resume in sidebar.
 activities: False # Whether to show activities.
@@ -15,27 +15,27 @@ style: styles-fsu
 #style: styles-salesforce
 
 #Profile information
-name: Carlos Saucedo
-tagline: Computer Science Student at Florida State University
+name: Alex Tedeschi
+tagline: Computer Science Graduate from Florida State University
 pic: avatar.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: "Driven Software Engineer and Computer Scientist with
   extensive leadership, graphic design, and Software Development expertise."
 
 #sidebar links
-email: carlos@cgsphoto.com
-phone: (561) 320-3150
-blog: blog.cgsphoto.com #do not add http://
-linkedin: CarlosGSaucedo
-github: LeoSaucedo
-twitter: "ThatLeoKid42"
-photos: photos.cgsphoto.com
+email: alextedeschi27@gmail.com
+phone: (401) 484-2910
+#blog: blog.cgsphoto.com #do not add http://
+linkedin: Alexander Tedeschi
+github: ajt18c
+twitter: "alext227"
+#photos: photos.cgsphoto.com
 #Update all the sections by editing the files inside _data folder.
 
 # uncomment the next line, if you want the education section displayed in main instead of the sidebar
 education_in_main: True
 
 # Tracker
-analytics: UA-93997218-2
+#analytics: UA-93997218-2
 
 # Build settings
 encoding: "utf-8"

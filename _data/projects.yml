@@ -1,31 +1,10 @@
 projects:
 
   - project:
-    title: Rikka-Bot
-    link: "https://github.com/LeoSaucedo/rikka-bot/"
-    tagline: "<br><i>Python Chatbot and moderation bot currently employed by over 135,000 Discord users worldwide.</i>
+    title: Image Annotation using Snapchat and Google Location Data
+    link: "https://github.com/AlexTedeschi/ImageAnnotation"
+    tagline: "<br><i>Image Annotation GUI using Snapchat and Google Location Data</i>
     <ul>
-      <li>Designed, programmed, and currently hosts the project, and leads a team of 4 members on the development team.</li>
-      <li>Integrated the Discord API, WolframAlpha API, Gizoogle.net API, Google Translate API, and CleverBot.io API to process and create intelligent responses based on user need, including language translation, moderation, and miscellaneous fun commands.</li>
+      <li>One part of research project under Dr. Andy Wang of Florida State University. Using social media to help with image annotation and image library organization.</li>
+      <li>Python script and interactive GUI take location data files from Snapchat and Google and annotate local directory images with metadata.</li>
     </ul>"
-
-  - project:
-    title: Calbot (HackFSU 2019 First Place Winner)
-    link: "https://github.com/KiwiCrushers/calbot"
-    tagline: "<br><i>Nutrition tracker that keeps track of intake through the latest in Computer Vision and artificial intelligence.</i>
-    <ul>
-      <li>Designed and led a team of 3 developers in creating an advanced, cross-platform chatbot assistant that simplifies the nutrition tracking experience by offering a seamless experience using the most popular conversational clients.</li>
-      <li>Employed the Google Cloud Computer Vision API to identify food in an image and used the WolframAlpha knowledgebase API to query for nnutrition information and logs and tracks them in an SQL database.</li>
-    </ul>
-    "
-
-  - project:
-    title: Dirac_AI
-    link: "https://github.com/LeoSaucedo/Dirac"
-    tagline: "<br><i>Advanced Artificial Intelligence chatbot with a web and backend interface.</i>
-    <ul>
-      <li>Designed, implemented, and hosts the project, and leads a team of 4 members on the development team.</li>
-      <li>Created a recursive neural network self-learning system that improves based on user input.</li>
-      <li>Designed an adaptable, modular bot able to be implemented into many different applications across the stack.</li>
-    </ul>
-    "

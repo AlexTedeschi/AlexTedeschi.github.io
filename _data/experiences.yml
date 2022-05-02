@@ -1,68 +1,56 @@
 - experience:
-  role: Software Engineer
-  time: September 2019 - Present
-  company: <a href="https://hirewells.com/" target="_blank">Grainhouse</a>
-  details: "<i>Smart Sourcing Company headquartered in Tallahassee, FL.</i>
+  role: Systems Group Member
+  time: September 2020 - Present
+  company: <a href="https://system.cs.fsu.edu/" target="_blank">FSU Computer Science Systems Group</a>
+  details: "<i>FSU Computer Science Department in Tallahassee, FL.</i>
   <ul>
     <li>
-      Develops and works as the founding engineer for Hire Wells, a smart talent, vendor, 
-      supplier, and contractor sourcing chatbot deployed to Slack and Microsoft Teams that simplifies 
-      the sourcing process for companies of all sizes.
+      Assist in technology system upgrades and fixes
     </li>
     <li>
-      Created and maintains a tech stack consisting of AWS servers, a Python backend, JavaScript and HTML 
-      frontend, as well as Intercom, Slack, and Microsoft Teams APIs to create a streamlined, cross-platform 
-      experience.
+      Help students with services and department accounts
+    </li>
+    <li>
+      Created a website with an integrated MYSQL database for inventory tracking
+    </li>
+    <li>
+      Created a front and backend web service that tracked IP addresses in the domain
     </li>
   </ul>"
 
 - experience:
-  role: Software Engineer Intern
-  time: May 2020 - August 2020
-  company: <a href="https://www.lowes.com/" target="_blank">Lowe's Companies, Inc.</a>
-  details: "
+  role: IT Intern
+  time: June 2018 - January 2020
+  company: <a href="https://www.samsonite.com/" target="_blank">Samsonite International S.A.</a>
+  details: "<i> Samsonite Corporate Office IT Department in Mansfield, MA.
   <ul>
     <li>
-    Developed and maintained multiple microservices now in production using the Spring Boot Framework for various Lowe’s ProServices. 
-    Deployed microservices to the Google Cloud Platform and created data retrieval systems for Postgres and Couchbase databases.
+      Help diagnose and solve technical issues at the corporate office
     </li>
     <li>
-    Created metric logging systems and employed them to create performance test and metrics analysis to ensure efficiently working code. 
-    Employed Apache JMeter and Prometheus to create metrics and perform stress tests. 
-    Developed JUnit tests and used them to ensure all code was free of errors.
+      Manage company asset engines
+    </li>
+    <li>
+      Manage company licensing for software
     </li>
   </ul>
   "
 - experience:
-  role: Engineering/Web Intern
-  time: May 2019 - August 2019
-  company: <a href="https://www.cpsproducts.com/" target="_blank">CPS Products, Inc</a>
-  details: "<i>HVAC/R Smart Tools Company headquartered in Miramar, FL.</i>
+  role: Technology and Event Manager
+  time: May 2016 - Present
+  company: <a href="https://www.rhodeislandmagic.com" target="_blank">Rhode Island Magic LLC.</a>
+  details: "<i>AAU basketball program serving the New England area.</i>
   <ul>
     <li>
-      Developed an advanced, cross-platform IoT consumer app that enables BLE connectivity with smart devices, 
-      employing Apache Cordova, Ionic, and TypeScript technologies to create native experiences on Android and iOS.
+      Assist in posting to social media
     </li>
     <li>
-      Developed CDN and cache protocols and more efficiency measures on the CPS USA, Europe, and Australia 
-      WordPress sites to increase the PageSpeed Insight score by more than 50% on each site.
-    </li>
-  </ul>"
-
-- experience:
-  role: Software Development Intern
-  time: June 2018 - August 2018
-  company: <a href="http://www.zell.mx/" target="_blank">Corporativo Zell, Guadalajara, Jalisco, Mexico</a>
-  details: "<i>Fintech and Financial Service Provider headquartered in Guadalajara, Mexico.</i>
-  <ul>
-    <li>
-      Assisted in the planning, development, and implementation of various fintech
-      services and products.
+      Produce and edit highlight films for potential college athletes
     </li>
     <li>
-      Developed an advanced, cross-platform cybersecurity app that enables Zell
-      customers to use two-factor authentication to log into sensitive web portals,
-      employing server-side ASP.NET and client-side JavaScript, HTML, and CSS, while interfacing with SQL database
-      servers.
+      Develop and update the company website
+    </li>
+    <li>
+      Run tournament sites for season tournaments
     </li>
   </ul>"

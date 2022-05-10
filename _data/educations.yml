@@ -1,4 +1,21 @@
 - education:
+  degree: MS in Computer Network and System Administration
+  university: Florida State University, Tallahassee FL
+  time: January 2022 - December 2022
+  details: "
+  <ul>
+    <li>
+      Seeking a Master of Science in Computer Network and System Administration
+    </li>
+    <li>
+      Masters project on image annotation through social media.
+    </li>
+    <li>
+      Systems Group Member and Graduate Assistant.
+    </li>
+  <ul>"
+
+- education:
   degree: BS in Computer Science
   university: Florida State University, Tallahassee FL
   time: August 2018 - December 2021
@@ -14,22 +31,5 @@
       Computer Science Lab Monitor 2019-2020. 
       Systems Group Member 2020-2022. 
       Graduate Assistant 2022.
-    </li>
-  <ul>"
-
-- education:
-  degree: MS in Computer Network and System Administration
-  university: Florida State University, Tallahassee FL
-  time: January 2022 - December 2022
-  details: "
-  <ul>
-    <li>
-      Seeking a Master of Science in Computer Network and System Administration
-    </li>
-    <li>
-      Masters project on image annotation through social media.
-    </li>
-    <li>
-      Systems Group Member and Graduate Assistant.
     </li>
   <ul>"

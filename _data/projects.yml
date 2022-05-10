@@ -3,7 +3,7 @@ projects:
   - project:
     title: Image Annotation using Snapchat and Google Location Data
     link: "https://github.com/AlexTedeschi/ImageAnnotation"
-    tagline: "<br><i>Using image annotation to help image organization</i>
+    tagline: "<br><i>Using image annotation to help image organization</i></br>
     <ul>
       <li>One part of research project under Dr. Andy Wang of Florida State University. Using social media to help with image annotation and image library organization.</li>
       <li>Python script and interactive GUI take location data files from Snapchat and Google and annotate local directory images with metadata.</li>

@@ -2,9 +2,57 @@ projects:
 
   - project:
     title: Image Annotation using Snapchat and Google Location Data
-    link: "https://github.com/AlexTedeschi/ImageAnnotation"
     tagline: "<br><i>Using image annotation to help image organization</i></br>
     <ul>
       <li>One part of research project under Dr. Andy Wang of Florida State University. Using social media to help with image annotation and image library organization.</li>
       <li>Python script and interactive GUI take location data files from Snapchat and Google and annotate local directory images with metadata.</li>
+      <li>Became an active contributor to the Pillow library for python.</li>
+    </ul>"
+
+  - project:
+    title: Fantasy Baseball Stat Predictor	
+    tagline: "<br><i>Use advanced metrics to predict fantasy success</i></br>
+    <ul>
+      <li>Python program that uses statcast data from the past 7 years of the MLB to find correlation between specific advanced metrics and fantasy success.</li>
+      <li>Ballpark factors and individual predictions to be added soon.</li>
+    </ul>"
+    
+  - project:
+    title: Roulette
+    tagline: "<br><i>Java multiplayer GUI</i></br>
+    <ul>
+      <li>Full multiplayer Java GUI that allows users to collect a bankroll, place any legal roulette bet, and change chip denominations for bets.</li>
+    </ul>"
+    
+  - project:
+    title: BMP Parser
+    tagline: "<br><i></i></br>
+    <ul>
+      <li>Python program that parses BMP files of different bits per pixel and converts	the images into DIB arrays of just pixel data based on the header specifications.</li>
+    </ul>"
+    
+  - project:
+    title: Image Interpolator
+    tagline: "<br><i>Maintain image quality while enlarging by interpolating</i></br>
+    <ul>
+      <li>C++ project that interpolates images when expanded to a bigger size.</li>
+      <li>Interpolation is done with a given nearest neighbor algorithm, or custom built linear, bilinear, or bicubic algorithms.</li>
+    </ul>"
+   
+  - project:
+    title: Full Network Tracker
+    tagline: "<br><i>Full stack program that logs and updates network activity in the department</i></br>
+    <ul>
+      <li>Python front-end displays username, IP, MAC, first time they connected, and last time they connected with HTML.</li>
+      <li>Script additionally handles requests and additions. Queries to specific users, IP, or MAC addresses allowed. Input santization included.</li>
+      <li>MYSQL back-end ensures proper requests and entries are made</li>
+    </ul>"
+ 
+   - project:
+    title: Department Asset Checkout System
+    tagline: "<br><i>Full stack program that tracks department assets as they are removed and brought back to campus</i></br>
+    <ul>
+      <li>Python front-end displays form to fill out about the asset and user with HTML.
+      <li>Script additionally handles requests and additions. Queries to specific entries allowed. Input sanitization included.</li>
+      <li>MYSQL back-end handles queries and allows for both the creation, updating, and deletion of entries.</li>
     </ul>"

@@ -52,7 +52,7 @@ projects:
     title: Department Asset Checkout System
     tagline: "<br><i>Full stack program that tracks department assets as they are removed and brought back to campus</i></br>
     <ul>
-      <li>Python front-end displays form to fill out about the asset and user with HTML.
+      <li>Python front-end displays form to fill out about the asset and user with HTML.</li>
       <li>Script additionally handles requests and additions. Queries to specific entries allowed. Input sanitization included.</li>
       <li>MYSQL back-end handles queries and allows for both the creation, updating, and deletion of entries.</li>
     </ul>"

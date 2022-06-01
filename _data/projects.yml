@@ -48,7 +48,7 @@ projects:
       <li>MYSQL back-end ensures proper requests and entries are made</li>
     </ul>"
  
-   - project:
+  - project:
     title: Department Asset Checkout System
     tagline: "<br><i>Full stack program that tracks department assets as they are removed and brought back to campus</i></br>
     <ul>

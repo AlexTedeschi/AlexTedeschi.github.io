@@ -5,6 +5,9 @@
   name: ManageEngine AssetExplorer
   level: 90%
 - skill:
+  name: Windows
+  level: 90%
+- skill:
   name: SQL & Databases
   level: 80%
 - skill:
@@ -14,7 +17,7 @@
   name: Adobe InDesign
   level: 80%
 - skill:
-  name: Active Directory
+  name: Windows Server
   level: 75%
 - skill:
   name: UNIX
@@ -34,10 +37,16 @@
 - skill:
   name: Git and GitHub
   level: 60%
+ -skill:
+  name: PyCharm
+  level: 60%
 - skill:
   name: Bash
   level: 60%
 - skill:
   name: SAP
+  level: 55%
+- skill:
+  name: JIRA
   level: 55%
 

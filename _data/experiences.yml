@@ -5,10 +5,13 @@
   details: "<i>FSU Computer Science Department in Tallahassee, FL.</i>
   <ul>
     <li>
-      Assist in technology system upgrades and fixes for both department hardware and software.
+       Lead physical server and network upgrades and assist in software upgrades and fixes for the department.
     </li>
     <li>
       Help students with their hardware, software and department accounts.
+    </li>
+    <li>
+      Develop and deploy departmental software solutions.
     </li>
     <li>
       Created a website with an integrated MYSQL database for inventory tracking of offsite assets.
@@ -33,6 +36,9 @@
     <li>
       Manage company licensing for software such as Microsoft and audit yearly.
     </li>
+    <li>
+      Cut $30,000 in unnecessary spending from Samsonite’s Microsoft Licenses.
+     </li>
   </ul>
   "
 - experience:
@@ -41,9 +47,6 @@
   company: <a href="https://www.rhodeislandmagic.com" target="_blank">Rhode Island Magic LLC.</a>
   details: "<i>AAU basketball program serving the New England area.</i>
   <ul>
-    <li>
-      Assist in posting to, planning, and organizing social media accounts.
-    </li>
     <li>
       Produce and edit highlight films for potential college athletes.
     </li>

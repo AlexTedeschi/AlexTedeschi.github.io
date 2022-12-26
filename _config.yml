@@ -17,7 +17,7 @@ style: styles-fsu
 #Profile information
 name: Alex Tedeschi
 tagline: Computer Science Graduate from Florida State University
-pic: avatar.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+pic: headshot.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: "An Enthusiastic Software Developer, IT Analyst, and System Administrator Apprentice with a driven work ethic."
 
 #sidebar links
